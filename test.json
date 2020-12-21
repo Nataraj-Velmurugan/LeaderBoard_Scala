@@ -1,0 +1,27 @@
+{
+    "one": "Team_5",
+    "six": "Team_21",
+    "ten": "Team_17",
+    "two": "Team_3",
+    "five": "Team_3",
+    "four": "Team_6",
+    "nine": "Team_9",
+    "eight": "Team_6",
+    "seven": "Team_8",
+    "three": "Team_24"
+}
+
+acc_uuid = 100001
+team_type = c1
+team_combinbation = {
+    "one": "Team_5",
+    "six": "Team_21",
+    "ten": "Team_17",
+    "two": "Team_3",
+    "five": "Team_3",
+    "four": "Team_6",
+    "nine": "Team_9",
+    "eight": "Team_6",
+    "seven": "Team_8",
+    "three": "Team_24"
+}
